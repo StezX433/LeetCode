@@ -1,14 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        mmap ={}
+        mmap={}
 
         for i,j in enumerate(nums):
-            remaining = target - j
-            if remaining in mmap:
-                return [mmap[remaining],i]
+            collapse = target - j
+            if collapse in mmap:
+                return [mmap[collapse],i]
+
             mmap[j]=i
-
-        return []           
-
-
+        return []
         
