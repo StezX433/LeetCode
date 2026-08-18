@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StezX433/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
