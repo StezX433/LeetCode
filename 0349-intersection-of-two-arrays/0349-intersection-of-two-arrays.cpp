@@ -5,7 +5,7 @@ public:
         vector<int> ans;
 
         for(int x: nums2){
-            if(st.find(x)!=st.end()){
+            if(st.count(x)){
                 ans.push_back(x);
                 st.erase(x);
             }
