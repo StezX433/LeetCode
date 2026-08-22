@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/StezX433/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/StezX433/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/StezX433/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/StezX433/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -94,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/StezX433/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
