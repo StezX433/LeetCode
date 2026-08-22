@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/StezX433/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StezX433/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/StezX433/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/StezX433/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/StezX433/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/StezX433/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StezX433/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/StezX433/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/StezX433/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
@@ -77,7 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/StezX433/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/StezX433/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
