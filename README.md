@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/StezX433/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/StezX433/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/StezX433/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StezX433/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2090-k-radius-subarray-averages](https://github.com/StezX433/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/StezX433/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/StezX433/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/StezX433/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
