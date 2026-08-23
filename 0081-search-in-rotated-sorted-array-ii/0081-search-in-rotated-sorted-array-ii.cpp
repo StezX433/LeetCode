@@ -1,20 +1,18 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-
         int left = 0;
         int right = nums.size() - 1;
 
         while (left <= right) {
-
             int mid = left + (right - left) / 2;
 
-            // Target found
+            // Found target
             if (nums[mid] == target) {
                 return true;
             }
 
-            // Duplicates: cannot determine which half is sorted
+            // Duplicates: cannot determine sorted half
             if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
                 left++;
                 right--;
@@ -23,7 +21,6 @@ public:
             // Left half is sorted
             else if (nums[left] <= nums[mid]) {
 
-                // Target lies in the sorted left half
                 if (nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
                 }
@@ -35,7 +32,6 @@ public:
             // Right half is sorted
             else {
 
-                // Target lies in the sorted right half
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 }
