@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StezX433/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/StezX433/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/StezX433/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/StezX433/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/StezX433/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/StezX433/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
