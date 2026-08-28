@@ -1,35 +1,32 @@
 class Solution {
 public:
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int left =1;
+        int right = *max_element(piles.begin(),piles.end());
 
-    // Check if Koko can finish within h hours at speed k
-    bool canFinish(vector<int>& piles, int h, int k) {
-        long long hours = 0;
+        while (left <=right){
+            int mid = left + (right - left)/2;
 
-        for (int pile : piles) {
-            hours += (pile + k - 1) / k;
-
-            if (hours > h)
-                return false;
+            if (canFinish(piles,h,mid)){
+                right = mid-1;
+            }else{
+                left = mid +1;
+            }
         }
+        return left;
 
-        return true;
     }
 
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int left = 1;
-        int right = *max_element(piles.begin(), piles.end());
+    bool canFinish(vector<int>& piles, int h , int k){
+        int sum =0;
+        for (auto i : piles){
+            sum += (i + k -1)/k;
 
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-
-            if (canFinish(piles, h, mid)) {
-                right = mid;
-            } 
-            else {
-                left = mid + 1;
+            if (sum > h){
+                return false;
             }
         }
 
-        return left;
+        return true;
     }
 };
