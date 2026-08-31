@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
+| [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StezX433/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/StezX433/LeetCode/tree/master/0113-path-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
