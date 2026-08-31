@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    void postorder(TreeNode* root , vector<int>& ans){
-        if(root==nullptr){
+    void postorder(TreeNode* root, vector<int>& ans){
+        if (!root){
             return;
         }
 
