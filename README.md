@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StezX433/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 ## Design
@@ -244,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
