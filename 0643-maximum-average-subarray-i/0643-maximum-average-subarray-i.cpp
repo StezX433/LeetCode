@@ -1,23 +1,24 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
-        int left = 0;
-        long long sum = 0;
-        double avg = INT_MIN;
-
-        for (int right = 0; right < nums.size(); right++) {
-
-            sum += nums[right];
-
-            // window size = right - left + 1
-            if (right - left + 1 == k) {
-                avg = max(avg, (double)sum / k);
-
-                sum -= nums[left];
-                left++;
-            }
+        int n = nums.size();
+        if (n < k){
+            return -1;
         }
 
-        return avg;
+        int currentSum =0;
+        for (int i = 0 ; i < k ; i++){
+            currentSum+=nums[i];
+        }
+
+        double maxAVG = (double)currentSum/k;
+        for (int i = k ; i< n;i++){
+            currentSum+=nums[i];
+            currentSum-=nums[i-k];
+
+            maxAVG = max(maxAVG,(double)currentSum/k);
+        }
+
+        return maxAVG;
     }
 };
