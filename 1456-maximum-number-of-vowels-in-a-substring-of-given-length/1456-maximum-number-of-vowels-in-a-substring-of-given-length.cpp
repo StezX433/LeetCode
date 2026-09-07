@@ -1,37 +1,27 @@
 class Solution {
 public:
     int maxVowels(string s, int k) {
-        int left = 0;
-        int right = 0;
-        int count = 0;
-        int ans = 0;
+        int n = s.length();
+        int current = 0;
 
-        while (right < s.length()) {
-
-            // Add current character
-            if (s[right] == 'a' || s[right] == 'e' ||
-                s[right] == 'i' || s[right] == 'o' ||
-                s[right] == 'u') {
-                count++;
+        for (int i =0;i<k;i++){
+            if (s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o'|| s[i]=='u'){
+                current++;
             }
-
-            // Window size becomes k
-            if (right - left + 1 == k) {
-                ans = max(ans, count);
-
-                // Remove left character before moving left
-                if (s[left] == 'a' || s[left] == 'e' ||
-                    s[left] == 'i' || s[left] == 'o' ||
-                    s[left] == 'u') {
-                    count--;
-                }
-
-                left++;
-            }
-
-            right++;
         }
 
-        return ans;
+        int maxS = current;
+        for (int i =k ; i< n ; i++){
+            if (s[i]=='a' || s[i]=='e' || s[i]=='i' || s[i]=='o'|| s[i]=='u'){
+                current++;
+            }
+            if (s[i-k]=='a' || s[i-k]=='e' || s[i-k]=='i' || s[i-k]=='o'|| s[i-k]=='u'){
+                current--;
+            }
+
+            maxS = max(maxS,current);
+        }
+
+        return maxS;
     }
 };
