@@ -1,22 +1,37 @@
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
-        int left = 0;
-        long long sum = 0;
+        int n = nums.size();
 
-        vector<int> arr(nums.size(), -1);
+        vector<int> ans(n, -1);
 
-        for (int right = 0; right < nums.size(); right++) {
-            sum += nums[right];
+        int windowSize = 2 * k + 1;
 
-            if (right - left + 1 == 2 * k + 1) {
-                arr[right - k] = sum / (2 * k + 1);
-
-                sum -= nums[left];
-                left++;
-            }
+        // If the entire window cannot fit
+        if (windowSize > n) {
+            return ans;
         }
 
-        return arr;
+        long long sum = 0;
+
+        // First window: indices 0 to 2*k
+        for (int i = 0; i < windowSize; i++) {
+            sum += nums[i];
+        }
+
+        // Center of first window
+        ans[k] = sum / windowSize;
+
+        // Slide the window
+        for (int i = windowSize; i < n; i++) {
+            sum += nums[i];
+            sum -= nums[i - windowSize];
+
+            int center = i - k;
+
+            ans[center] = sum / windowSize;
+        }
+
+        return ans;
     }
 };
