@@ -295,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/StezX433/LeetCode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/StezX433/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
