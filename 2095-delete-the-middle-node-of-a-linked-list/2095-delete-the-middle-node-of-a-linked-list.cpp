@@ -11,7 +11,7 @@ public:
         while (temp != NULL) {
             n++;
             temp = temp->next;
-        }
+        };
 
         int mid = n / 2;
 
