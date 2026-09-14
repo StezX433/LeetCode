@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/StezX433/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/StezX433/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/StezX433/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/StezX433/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/StezX433/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/StezX433/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/StezX433/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/StezX433/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/StezX433/LeetCode/tree/master/0113-path-sum-ii) |
 ## Recursion
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/StezX433/LeetCode/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
