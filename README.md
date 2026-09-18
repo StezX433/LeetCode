@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/StezX433/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/StezX433/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StezX433/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/StezX433/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/StezX433/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/StezX433/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/StezX433/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StezX433/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/StezX433/LeetCode/tree/master/0704-binary-search) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/StezX433/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/StezX433/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/StezX433/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/StezX433/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/StezX433/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/StezX433/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StezX433/LeetCode/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -384,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
