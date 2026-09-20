@@ -12,17 +12,10 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int target) {
-        if (root == nullptr)
-            return nullptr;
-
-        if (root->val == target)
-            return root;
-
-        TreeNode* left = searchBST(root->left, target);
-
-        if (left != nullptr)
-            return left;
-
-        return searchBST(root->right, target);
+        if (!root) return nullptr;
+        if (root->val==target) return root;
+        TreeNode *left = searchBST(root->left,target);
+        if (left != nullptr) return left;
+        return searchBST(root->right,target);
     }
 };
