@@ -2,10 +2,13 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         int left = 0;
+        int right = nums.size() - 1;
 
-        for (int right = 0; right < nums.size(); right++) {
-            if (nums[right] != val) {
-                nums[left] = nums[right];
+        while (left <= right) {
+            if (nums[left] == val) {
+                swap(nums[left], nums[right]);
+                right--;
+            } else {
                 left++;
             }
         }
