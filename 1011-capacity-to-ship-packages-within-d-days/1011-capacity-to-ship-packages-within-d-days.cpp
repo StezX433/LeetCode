@@ -1,41 +1,31 @@
 class Solution {
 public:
-
-    bool canShip(vector<int>& weights, int days, int capacity) {
-        int dayCapacity = 0;
+    bool canShip(vector<int>&weights,int capacity,int days){
         int day = 1;
-
-        for (int i = 0; i < weights.size(); i++) {
-
-            if (dayCapacity + weights[i] > capacity) {
+        int daycap = 0;
+        for (int w : weights){
+            if (daycap+w<=capacity){
+                daycap+=w;
+            }else{
+                daycap=w;
                 day++;
-                dayCapacity = weights[i];
-            }
-            else {
-                dayCapacity += weights[i];
             }
         }
 
-        return day <= days;
+        return day<=days;
     }
-
     int shipWithinDays(vector<int>& weights, int days) {
-
-        int left = *max_element(weights.begin(), weights.end());
-
+        int left = *max_element(weights.begin(),weights.end());
         int right = 0;
-        for (int w : weights) {
-            right += w;
+        for (int w : weights){
+            right +=w;
         }
 
-        while (left < right) {
-
-            int mid = left + (right - left) / 2;
-
-            if (canShip(weights, days, mid)) {
+        while (left < right){
+            int mid = left + (right - left)/2;
+            if (canShip(weights,mid,days)){
                 right = mid;
-            }
-            else {
+            }else{
                 left = mid + 1;
             }
         }
