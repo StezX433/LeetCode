@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/StezX433/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/StezX433/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/StezX433/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
