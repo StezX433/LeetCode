@@ -1,27 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
-        vector<vector<int>> res;
-        int n = nums.size();
 
-        for (int i = 0; i < n - 2; i++) {
-            if (nums[i] > 0) break;                        // smallest is positive -> no more triplets
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // skip duplicate i
+        for (int i = 0; i < nums.size() - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
 
-            int lo = i + 1, hi = n - 1;
-            while (lo < hi) {
-                int sum = nums[i] + nums[lo] + nums[hi];
-                if (sum < 0) lo++;
-                else if (sum > 0) hi--;
+            int left = i + 1;
+            int right = nums.size() - 1;
+
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+                    ans.push_back({nums[i], nums[left], nums[right]});
+
+                    while (left < right && nums[left] == nums[left + 1])
+                        left++;
+
+                    while (left < right && nums[right] == nums[right - 1])
+                        right--;
+
+                    left++;
+                    right--;
+                }
+                else if (sum < 0) {
+                    left++;
+                }
                 else {
-                    res.push_back({nums[i], nums[lo], nums[hi]});
-                    lo++; hi--;
-                    while (lo < hi && nums[lo] == nums[lo - 1]) lo++; // skip duplicate lo
-                    while (lo < hi && nums[hi] == nums[hi + 1]) hi--; // skip duplicate hi
+                    right--;
                 }
             }
         }
-        return res;
+
+        return ans;
     }
 };
