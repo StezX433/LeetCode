@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/StezX433/LeetCode/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/StezX433/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/StezX433/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
+| [1693-daily-leads-and-partners](https://github.com/StezX433/LeetCode/tree/master/1693-daily-leads-and-partners) |
 ## Linked List
 |  |
 | ------- |
