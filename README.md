@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/StezX433/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/StezX433/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/StezX433/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
