@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/StezX433/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/StezX433/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/StezX433/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/StezX433/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/StezX433/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/StezX433/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/StezX433/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/StezX433/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/StezX433/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/StezX433/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -472,8 +476,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/StezX433/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/StezX433/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/StezX433/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
