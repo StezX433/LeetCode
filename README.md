@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/StezX433/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/StezX433/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/StezX433/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/StezX433/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/StezX433/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/StezX433/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/StezX433/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/StezX433/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
