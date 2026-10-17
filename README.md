@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/StezX433/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/StezX433/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/StezX433/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/StezX433/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/StezX433/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/StezX433/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/StezX433/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/StezX433/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/StezX433/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/StezX433/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/StezX433/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/StezX433/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/StezX433/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/StezX433/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/StezX433/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/StezX433/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/StezX433/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -523,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/StezX433/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/StezX433/LeetCode/tree/master/0706-design-hashmap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
