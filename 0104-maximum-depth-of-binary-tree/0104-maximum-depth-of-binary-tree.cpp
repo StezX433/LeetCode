@@ -9,13 +9,16 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class Solution 
+{
+
 public:
+    
     int maxDepth(TreeNode* root) {
-        
         if (!root) return 0;
         int left = maxDepth(root->left);
         int right = maxDepth(root->right);
-        return 1+ max(left,right);
+        int maxs = max(left,right);
+        return 1+ maxs;
     }
 };
