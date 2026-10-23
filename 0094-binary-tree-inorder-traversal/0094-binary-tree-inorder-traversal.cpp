@@ -12,9 +12,7 @@
 class Solution {
 public:
     void inorder(vector<int>& ans, TreeNode* root){
-        if (!root){
-            return;
-        }
+        if (!root) return;
         inorder(ans,root->left);
         ans.push_back(root->val);
         inorder(ans,root->right);
