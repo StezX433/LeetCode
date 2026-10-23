@@ -12,7 +12,7 @@
 class Solution {
 public:
     void preorder(vector<int>& ans , TreeNode* root){
-        if (!root ) return;
+        if (!root) return;
         ans.push_back(root->val);
         preorder(ans,root->left);
         preorder(ans,root->right);
