@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StezX433/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/StezX433/LeetCode/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/StezX433/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Design
