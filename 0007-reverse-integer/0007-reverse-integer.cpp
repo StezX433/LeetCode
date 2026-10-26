@@ -1,26 +1,34 @@
 
+#include <climits>
+
 class Solution {
 public:
     int reverse(int x) {
-        int rev = 0;
+        int sign = 1;
 
-        while (x != 0) {
-            int digit = x % 10;
-            x /= 10;
-
-            if (rev > INT_MAX / 10 ||
-                (rev == INT_MAX / 10 && digit > 7)) {
-                return 0;
-            }
-
-            if (rev < INT_MIN / 10 ||
-                (rev == INT_MIN / 10 && digit < -8)) {
-                return 0;
-            }
-
-            rev = rev * 10 + digit;
+        if (x < 0) {
+            sign = -1;
         }
 
-        return rev;
+        int y = 0;
+
+        while (x != 0) {
+            int j = x % 10;
+
+            if (y > INT_MAX / 10 ||
+                (y == INT_MAX / 10 && j > 7)) {
+                return 0;
+            }
+
+            if (y < INT_MIN / 10 ||
+                (y == INT_MIN / 10 && j < -8)) {
+                return 0;
+            }
+
+            y = y * 10 + j;
+            x /= 10;
+        }
+
+        return y;
     }
 };
