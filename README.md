@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/StezX433/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/StezX433/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StezX433/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/StezX433/LeetCode/tree/master/0189-rotate-array) |
