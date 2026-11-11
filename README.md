@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/StezX433/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/StezX433/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/StezX433/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/StezX433/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/StezX433/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/StezX433/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/StezX433/LeetCode/tree/master/0075-sort-colors) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/StezX433/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/StezX433/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/StezX433/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/StezX433/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/StezX433/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/StezX433/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/StezX433/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
