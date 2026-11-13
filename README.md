@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StezX433/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/StezX433/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/StezX433/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/StezX433/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/StezX433/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/StezX433/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/StezX433/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/StezX433/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/StezX433/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Divide and Conquer
