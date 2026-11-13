@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/StezX433/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/StezX433/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/StezX433/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3151-special-array-i](https://github.com/StezX433/LeetCode/tree/master/3151-special-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/StezX433/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
