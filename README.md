@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/StezX433/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/StezX433/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/StezX433/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/StezX433/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/StezX433/LeetCode/tree/master/2418-sort-the-people) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/StezX433/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/StezX433/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2090-k-radius-subarray-averages](https://github.com/StezX433/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/StezX433/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
