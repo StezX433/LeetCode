@@ -1,40 +1,44 @@
 class Solution {
 public:
-    int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
+    int maxSatisfied(vector<int>& customers,
+                     vector<int>& grumpy, int minutes) {
 
-        int base = 0;
+        int n = customers.size();
 
-        // Customers already satisfied
-        for (int i = 0; i < customers.size(); i++) {
-            if (grumpy[i] == 0) {
-                base += customers[i];
+        int total = 0;
+
+        // Count already satisfied customers
+        for(int i = 0; i < n; i++) {
+            if(grumpy[i] == 0) {
+                total += customers[i];
             }
         }
 
-        int left = 0;
-        int window = 0;
-        int best = 0;
+        // Calculate first window
+        int windowSum = 0;
 
-        for (int right = 0; right < customers.size(); right++) {
-
-            // Only grumpy customers are gained by using the technique
-            if (grumpy[right] == 1) {
-                window += customers[right];
+        for(int i = 0; i < minutes; i++) {
+            if(grumpy[i] == 1) {
+                windowSum += customers[i];
             }
-
-            // Keep window size <= minutes
-            if (right - left + 1 > minutes) {
-
-                if (grumpy[left] == 1) {
-                    window -= customers[left];
-                }
-
-                left++;
-            }
-
-            best = max(best, window);
         }
 
-        return base + best;
+        int maxSum = windowSum;
+
+        // Sliding window
+        for(int i = minutes; i < n; i++) {
+
+            if(grumpy[i] == 1) {
+                windowSum += customers[i];
+            }
+
+            if(grumpy[i - minutes] == 1) {
+                windowSum -= customers[i - minutes];
+            }
+
+            maxSum = max(maxSum, windowSum);
+        }
+
+        return total + maxSum;
     }
 };
