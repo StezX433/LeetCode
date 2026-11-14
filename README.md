@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/StezX433/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/StezX433/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/StezX433/LeetCode/tree/master/2418-sort-the-people) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/StezX433/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/StezX433/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/StezX433/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/StezX433/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/StezX433/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/StezX433/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/StezX433/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/StezX433/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
