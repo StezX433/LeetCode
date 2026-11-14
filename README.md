@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/StezX433/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/StezX433/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/StezX433/LeetCode/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/StezX433/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/StezX433/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/StezX433/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/StezX433/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/StezX433/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/StezX433/LeetCode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/StezX433/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/StezX433/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/StezX433/LeetCode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/StezX433/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/StezX433/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/StezX433/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/StezX433/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/StezX433/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/StezX433/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/StezX433/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/StezX433/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/StezX433/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/StezX433/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/StezX433/LeetCode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/StezX433/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/StezX433/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
