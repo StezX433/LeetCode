@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/StezX433/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/StezX433/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/StezX433/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/StezX433/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/StezX433/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/StezX433/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/StezX433/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/StezX433/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/StezX433/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/StezX433/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/StezX433/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/StezX433/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/StezX433/LeetCode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
