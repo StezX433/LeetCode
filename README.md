@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/StezX433/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StezX433/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/StezX433/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/StezX433/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/StezX433/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/StezX433/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/StezX433/LeetCode/tree/master/0125-valid-palindrome) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/StezX433/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/StezX433/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/StezX433/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/StezX433/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/StezX433/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/StezX433/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/StezX433/LeetCode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/StezX433/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/StezX433/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StezX433/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/StezX433/LeetCode/tree/master/0189-rotate-array) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/StezX433/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/StezX433/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/StezX433/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
