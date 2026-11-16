@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/StezX433/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/StezX433/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2418-sort-the-people](https://github.com/StezX433/LeetCode/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/StezX433/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/StezX433/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/StezX433/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/StezX433/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/StezX433/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/StezX433/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/StezX433/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/StezX433/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/StezX433/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/StezX433/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/StezX433/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/StezX433/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
