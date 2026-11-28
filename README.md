@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StezX433/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/StezX433/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1552-magnetic-force-between-two-balls](https://github.com/StezX433/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/StezX433/LeetCode/tree/master/1652-defuse-the-bomb) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/StezX433/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/StezX433/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/StezX433/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/StezX433/LeetCode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/StezX433/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/StezX433/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/StezX433/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/StezX433/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/StezX433/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
