@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/StezX433/LeetCode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/StezX433/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/StezX433/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1447-simplified-fractions](https://github.com/StezX433/LeetCode/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/StezX433/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/StezX433/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/StezX433/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/StezX433/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1447-simplified-fractions](https://github.com/StezX433/LeetCode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/StezX433/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/StezX433/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/StezX433/LeetCode/tree/master/0204-count-primes) |
+| [1447-simplified-fractions](https://github.com/StezX433/LeetCode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/StezX433/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
@@ -767,9 +770,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/StezX433/LeetCode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/StezX433/LeetCode/tree/master/1447-simplified-fractions) |
 | [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
