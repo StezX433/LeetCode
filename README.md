@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/StezX433/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/StezX433/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StezX433/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/StezX433/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/StezX433/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/StezX433/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -721,10 +722,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/StezX433/LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/StezX433/LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/StezX433/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
@@ -761,4 +764,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/StezX433/LeetCode/tree/master/0014-longest-common-prefix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/StezX433/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
